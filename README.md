@@ -1,4 +1,4 @@
-# setup.wuz.fyi
+# setup.kylepeeler.io
 
 A setup script for my computer, way overengineered.
 
